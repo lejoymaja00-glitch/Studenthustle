@@ -1,0 +1,1 @@
+const nextConfig={reactStrictMode:true,images:{domains:["lh3.googleusercontent.com","avatars.githubusercontent.com"]},env:{NEXT_PUBLIC_APP_NAME:"Student Hustle"}};module.exports=nextConfig;
